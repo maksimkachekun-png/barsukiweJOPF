@@ -25,9 +25,9 @@ from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession, async_sess
 # НАСТРОЙКИ
 # ============================================
 BOT_TOKEN = '8724614250:AAGK3KkM1qJWQIu0UqvvhPpEbxViBMHglFI'
-ADMIN_IDS = [123456789]
-SMSFAST_API_KEY = 'твой_ключ_smsfast'
-CRYPTOBOT_API_KEY = 'твой_ключ_cryptobot'
+ADMIN_IDS = [8632861931,743956377]  # твой ID
+SMSFAST_API_KEY = 'Lwx5xNXcAATYznbQmrm6DnkIlwFhAz'
+CRYPTOBOT_API_KEY = '590558:AATFDxdtESm34k9IoB2U7TLAo0LQylVdmPo'
 MARKUP_PERCENT = 20
 
 def get_markup():
