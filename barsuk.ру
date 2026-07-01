@@ -25,11 +25,11 @@ from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession, async_sess
 # НАСТРОЙКИ
 # ============================================
 BOT_TOKEN = '8724614250:AAGK3KkM1qJWQIu0UqvvhPpEbxViBMHglFI'
-ADMIN_IDS = [123456789]
+ADMIN_IDS = [8632861931,743956377]  # твой ID
 SIM_API_KEY = 'ключ_5sim'
-SMSFAST_API_KEY = 'ключ_smsfast'
-CRYPTOBOT_API_KEY = 'ключ_cryptobot'
-USD_RATE = 90
+SMSFAST_API_KEY = 'CjjATohSGsyZPN9p7IigqDPIIygOIu'
+CRYPTOBOT_API_KEY = '590558:AATFDxdtESm34k9IoB2U7TLAo0LQylVdmPo'
+USD_RATE = 75  # курс доллара
 
 SIM_ENABLED = True
 SMSFAST_ENABLED = True
